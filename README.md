@@ -1,2 +1,2 @@
 # lss-bpm
-classifier for lss, bpm and other concepts
+Classifier for lss, bpm and other concepts
