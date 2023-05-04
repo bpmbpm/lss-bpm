@@ -14,4 +14,4 @@ Cloning into 'lss-bpm'...
 
 Запускаем logseq, Меню: "Добавить новый граф".   
 Выбираем папку (например, C:/Temp/logseq2).   
-Можно использовать ручное обновление через расширение Git (A git plugin for logseq)   
+Можно использовать ручное обновление через расширение Git (A git plugin for logseq), "Commit & Push"   
