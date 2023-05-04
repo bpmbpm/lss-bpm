@@ -1,5 +1,9 @@
 # lss-bpm
 Classifier for lss, bpm and other concepts
+   
+#ZettelKasten Logseq  
+https://logseq.com         
+https://github.com/logseq/logseq   
 
 # Клонирование
 Запускаем Git Bash. Выбор папки для клонирования репозитария, например, (обратный слеш)   
