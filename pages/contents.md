@@ -1,0 +1,27 @@
+- #root
+	- #lean-like
+		- #lean
+		- #SS
+		- #LSS
+		- #TQM
+		- #NOT
+		- #old-lean-like
+		- #vs-lean-like
+		- #cert-lean-like
+	- #BPM-like
+		- #BPM
+		- #EA
+	- #org-like
+	- #PM-like
+	- #spec-like
+	- #IT-like
+		- #SE
+		- #SWE
+		- #other-IT
+		- #IT-for-IT
+	- #BOK-list
+- #help-ZK
+	- #logseq
+	- #markdown
+	- #info
+-

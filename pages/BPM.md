@@ -1,0 +1,7 @@
+- BPM CBOK, SADT и т.п., BPMN, low-code и process mining (отсылка к other-IT),
+- **Классический**
+- 1 BPM CBOK, нотации описания процессов и моделирование: [SADT](https://studfile.net/preview/4339471/page:33), IDEF, DFD, UML и т.п. и другие [CASE](http://www.interface.ru/home.asp?artId=2806) технологии
+- **BPM исполнительный** - как элемент SWE (программирование), см. #other-IT BPMN и др.
+- process mining (BPM "из лога"), см. #other-IT
+-
+-

@@ -1,0 +1,2 @@
+- #logseq #markdown #info
+- Справочные материалы по ZettelKasten

@@ -1,0 +1,4 @@
+- **ZettelKasten logseq**
+- Сравнения ZettelKasten: [Note Taking Apps](https://noteapps.info/apps/compare?note_app=joplin%2Blogseq%2Bobsidian%2Broam&selected_group=import_export#compare-preface)
+- Клавиши: Ctrl Z Отменить
+-
